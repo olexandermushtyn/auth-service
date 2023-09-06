@@ -1,0 +1,28 @@
+{"level":"info","message":"Connecting to MongoDB"}
+{"level":"fatal","message":"Failed to connect to MongoDB","error":"server selection error: server selection timeout, current topology: { Type: Unknown, Servers: [{ Addr: localhost:27017, Type: Unknown, Last error: dial tcp 127.0.0.1:27017: connect: connection refused }, ] }"}
+{"level":"info","message":"Connecting to MongoDB"}
+{"level":"fatal","message":"Failed to connect to MongoDB","error":"error validating uri: username required if URI contains user info"}
+{"level":"info","message":"Connecting to MongoDB"}
+{"level":"fatal","message":"Failed to connect to MongoDB","error":"error validating uri: username required if URI contains user info"}
+{"level":"info","message":"Connecting to MongoDB"}
+{"level":"fatal","message":"Failed to connect to MongoDB","error":"connection() error occurred during connection handshake: auth error: sasl conversation error: unable to authenticate using mechanism \"SCRAM-SHA-1\": (AuthenticationFailed) Authentication failed."}
+{"level":"info","message":"Connecting to MongoDB"}
+{"level":"fatal","message":"Failed to connect to MongoDB","error":"connection() error occurred during connection handshake: auth error: sasl conversation error: unable to authenticate using mechanism \"SCRAM-SHA-1\": (AuthenticationFailed) Authentication failed."}
+{"level":"info","message":"Connecting to MongoDB"}
+{"level":"fatal","message":"Failed to connect to MongoDB","error":"connection() error occurred during connection handshake: auth error: sasl conversation error: unable to authenticate using mechanism \"SCRAM-SHA-1\": (AuthenticationFailed) Authentication failed."}
+{"level":"info","message":"Connecting to MongoDB"}
+{"level":"fatal","message":"Failed to connect to MongoDB","error":"connection() error occurred during connection handshake: auth error: sasl conversation error: unable to authenticate using mechanism \"SCRAM-SHA-1\": (AuthenticationFailed) Authentication failed."}
+{"level":"info","message":"Connecting to MongoDB"}
+{"level":"fatal","message":"Failed to connect to MongoDB","error":"connection() error occurred during connection handshake: auth error: sasl conversation error: unable to authenticate using mechanism \"SCRAM-SHA-1\": (AuthenticationFailed) Authentication failed."}
+{"level":"info","message":"Connecting to MongoDB"}
+{"level":"fatal","message":"Failed to connect to MongoDB","error":"connection() error occurred during connection handshake: auth error: sasl conversation error: unable to authenticate using mechanism \"SCRAM-SHA-1\": (AuthenticationFailed) Authentication failed."}
+{"level":"info","message":"Connecting to MongoDB"}
+{"level":"info","message":"Received terminate, graceful shutdown","signal":"interrupt"}
+{"level":"info","message":"Connecting to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Starting web server","port":8080}
+{"level":"info","message":"Received terminate, graceful shutdown","signal":"interrupt"}
+{"level":"info","message":"Connecting to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Starting web server","port":8080}
+{"level":"info","message":"Received terminate, graceful shutdown","signal":"interrupt"}
